@@ -9,14 +9,14 @@ hero_image_ratio: is-1by1
 ---
 
 # Avsin Atac
-Elève ingénieur en [préciser sa spécialité]
+Elève en première année de cycle pré-ingénieur
 
 
-Disponible XX mois à partir de Date
+Disponible début juillet à partir du 2 juillet
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[avsin.atac@etu.unilasalle.fr](mailto:avsin.atac@etu.unilasalle.fr)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
-Permis B, voiture
+
 
