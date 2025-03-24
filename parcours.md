@@ -8,33 +8,31 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2025`
+**UniLasalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
+Elève ingénieur en [cycle pré-ingénieur numérique et énergie]
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+
+`2024`
+Bac [Mathématique et Physique-Chimie], mention assée bien, Lycée Marie Curie, Nogent-sur Oise
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2025` **Projet du robot OTTO**
 
-_Réalisé en équipe de XX étudiants_
+_Réalisé en équipe de 3 étudiants_
+* L'objectif est de faire un robot et de le faire marcher pour pouvoir faire un tournoi de robot en fin d'année ( Impression 3D, Arduino, OnShape ) 
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+ **Entreprise, secteur activité, description site rejoint, taille, ville**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Stage – Au sein d'une PME dans le batiments_
+* travail d'un mois dans le secteur du batiment notamment dans la maconnerie (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
